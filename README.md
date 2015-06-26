@@ -1,0 +1,2 @@
+# Basic
+Use simple functions
